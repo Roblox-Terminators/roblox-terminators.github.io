@@ -1,7 +1,7 @@
 {
   "name": "roblox-terminators",
   "version": "0.1.0",
-  "homepage": "https://Roblox-Terminators/roblox-terminators.github.io",
+  "homepage": "roblox-terminators.github.io/roblox-terminators",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
