@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Roblox-Terminators/roblox-terminators.github.io/static/css/main.4258b462.css",
-    "main.js": "/Roblox-Terminators/roblox-terminators.github.io/static/js/main.32b8461d.js",
-    "static/js/453.5075aa1d.chunk.js": "/Roblox-Terminators/roblox-terminators.github.io/static/js/453.5075aa1d.chunk.js",
-    "static/media/wip.gif": "/Roblox-Terminators/roblox-terminators.github.io/static/media/wip.39963addcc5bea923c65.gif",
-    "index.html": "/Roblox-Terminators/roblox-terminators.github.io/index.html",
-    "main.4258b462.css.map": "/Roblox-Terminators/roblox-terminators.github.io/static/css/main.4258b462.css.map",
-    "main.32b8461d.js.map": "/Roblox-Terminators/roblox-terminators.github.io/static/js/main.32b8461d.js.map",
-    "453.5075aa1d.chunk.js.map": "/Roblox-Terminators/roblox-terminators.github.io/static/js/453.5075aa1d.chunk.js.map"
+    "main.css": "/roblox-terminators.github.io/static/css/main.4258b462.css",
+    "main.js": "/roblox-terminators.github.io/static/js/main.e889444b.js",
+    "static/js/453.5075aa1d.chunk.js": "/roblox-terminators.github.io/static/js/453.5075aa1d.chunk.js",
+    "static/media/wip.gif": "/roblox-terminators.github.io/static/media/wip.39963addcc5bea923c65.gif",
+    "index.html": "/roblox-terminators.github.io/index.html",
+    "main.4258b462.css.map": "/roblox-terminators.github.io/static/css/main.4258b462.css.map",
+    "main.e889444b.js.map": "/roblox-terminators.github.io/static/js/main.e889444b.js.map",
+    "453.5075aa1d.chunk.js.map": "/roblox-terminators.github.io/static/js/453.5075aa1d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4258b462.css",
-    "static/js/main.32b8461d.js"
+    "static/js/main.e889444b.js"
   ]
 }
