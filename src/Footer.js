@@ -1,5 +1,4 @@
 import 'bulma/css/bulma.min.css';
-import './Arrow.css';
 
 function Footer() {
     return (
