@@ -1,0 +1,35 @@
+.square-wave {
+    scale: 1 1;
+    width: 16vw;
+    height: 9vw;
+    border: 1vw solid;
+    border-color: hsl(171, 100%, 41%) hsl(171, 100%, 41%);
+    border-radius: 7.5%;
+}
+
+.scale-up-center {
+	-webkit-animation: scale-up-center 1s linear infinite both;
+	        animation: scale-up-center 1s linear infinite both;
+}
+
+@-webkit-keyframes scale-up-center {
+   0% {
+     -webkit-transform: scale(0.5);
+             transform: scale(0.5);
+   }
+   100% {
+     -webkit-transform: scale(1);
+             transform: scale(1);
+   }
+}
+@keyframes scale-up-center {
+  0% {
+    -webkit-transform: scale(0.5);
+            transform: scale(0.5);
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+}
+  
